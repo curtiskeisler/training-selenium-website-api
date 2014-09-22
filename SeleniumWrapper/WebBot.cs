@@ -36,12 +36,12 @@ namespace SeleniumWrapper
         /// The default browswer to use when opening a browswer and
         /// not specifying it.
         /// </summary>
-        private const BrowserType _DefaultBrowser = BrowserType.Chrome;
+        private BrowserType _DefaultBrowser = BrowserType.Chrome;
 
         /// <summary>
         /// The default command timeout for browser commands
         /// </summary>
-        private const TimeSpan _DefaultCommandTimeout = TimeSpan.FromMinutes(2);
+        private TimeSpan _DefaultCommandTimeout = TimeSpan.FromMinutes(2);
         
         /// <summary>
         /// This is the base, Selenium driver used to drive web browser interactions.
