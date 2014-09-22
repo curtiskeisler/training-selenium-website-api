@@ -1,0 +1,17 @@
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WeatherAggregator.exe.config
+C:\Training\SeleniumAPI\WeatherAggregator\obj\Debug\WeatherAggregator.csprojResolveAssemblyReference.cache
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WeatherAggregator.exe
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WeatherAggregator.pdb
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\SeleniumWrapper.dll
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WeatherAPI.dll
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WebDriver.dll
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\SeleniumWrapper.pdb
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WeatherAPI.pdb
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WebDriver.xml
+C:\Training\SeleniumAPI\WeatherAggregator\obj\Debug\WeatherAggregator.exe
+C:\Training\SeleniumAPI\WeatherAggregator\obj\Debug\WeatherAggregator.pdb
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WebDriver.Support.dll
+C:\Training\SeleniumAPI\WeatherAggregator\bin\Debug\WebDriver.Support.xml
+C:\Training\WebsiteAPI\WeatherAggregator\bin\Debug\WeatherAggregator.exe.config
+C:\Training\WebsiteAPI\WeatherAggregator\obj\Debug\WeatherAggregator.exe
+C:\Training\WebsiteAPI\WeatherAggregator\obj\Debug\WeatherAggregator.pdb
